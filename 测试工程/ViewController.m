@@ -19,7 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSArray *tempArray = @[@{@"orderId":@"1"}, @{@"orderId":@"1"}, @{@"orderId":@"1"}, @{@"orderId":@"1"}, @{@"orderId":@"2"}, @{@"orderId":@"2"}, @{@"orderId":@"2"}, @{@"orderId":@"2"}, @{@"orderId":@"2"}, @{@"orderId":@"3"}, @{@"orderId":@"3"}, @{@"orderId":@"4"}, @{@"orderId":@"5"}];
-    
+    /石山岭
     NSMutableArray *orderListArray = [NSMutableArray array];//总订单的数组
     NSString *tempOrderId = @"";//记录上一个订单ID
     NSMutableArray *supplierArray = [NSMutableArray array];
